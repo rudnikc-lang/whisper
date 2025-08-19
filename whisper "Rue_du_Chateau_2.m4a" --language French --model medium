@@ -1,0 +1,2 @@
+whisper "Rue_du_Chateau_2.m4a" --language French --model medium
+
